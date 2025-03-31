@@ -1,5 +1,5 @@
 # Document Clustering using K-Means & TF-IDF
-📌 # Overview
+# 📌 Overview
 This project focuses on clustering text documents from the 20 Newsgroups dataset using K-Means clustering and TF-IDF vectorization.
 
 🔹 Data Source: 20 Newsgroups dataset (different categories of text documents).
